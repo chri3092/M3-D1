@@ -39,7 +39,7 @@ border-color: aqua;
 }
 
 /* 6 ESERCIZIO */
-nav > a:nth-child(odd) {
+nav span:nth-of-type(odd) {
 color: greenyellow;
 }
 /* 7 ESERCIZIO */
