@@ -21,7 +21,7 @@ window.onload = function () {
         })
     }
 
-    /* 2 EXTRA */
+    /* 3 EXTRA */
 
     const autorsSelect = document.querySelectorAll('.blog-post p.blog-post-meta a')
 
